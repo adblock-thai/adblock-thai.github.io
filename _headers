@@ -7,21 +7,21 @@
   Referrer-Policy: same-origin
 /0-5932045ea379469b7557.js
   Cache-Control: public, max-age=31536000, immutable
-/component---src-templates-post-js-c0ac19530bbce69c9a95.js
+/component---src-templates-post-js-b4ba710412725d1aee2b.js
   Cache-Control: public, max-age=31536000, immutable
-/component---src-templates-category-js-0059fc4b127f62a69517.js
+/component---src-templates-category-js-3cb4901912e03b44eff4.js
   Cache-Control: public, max-age=31536000, immutable
-/component---src-pages-categories-js-53f2891020c83b8d74d0.js
+/component---src-pages-categories-js-b0abcdd47b797ea57ce9.js
   Cache-Control: public, max-age=31536000, immutable
-/component---src-pages-index-js-2bac73b94d8b853045f7.js
+/component---src-pages-index-js-3c318e205b79405974ae.js
   Cache-Control: public, max-age=31536000, immutable
-/component---src-pages-report-js-696011434d00d2c32df2.js
+/component---src-pages-report-js-53b06aedbaff0c2c2456.js
   Cache-Control: public, max-age=31536000, immutable
-/component---src-pages-success-js-eac2a2a097fd0245ff2b.js
+/component---src-pages-success-js-4f17a6e799a1d0127bf5.js
   Cache-Control: public, max-age=31536000, immutable
 /undefined
   Cache-Control: public, max-age=31536000, immutable
-/webpack-runtime-37c572b59bdd1188b0c9.js
+/webpack-runtime-e047fac89ecd022373a3.js
   Cache-Control: public, max-age=31536000, immutable
 /styles.f57237ef82cef6804fb1.css
   Cache-Control: public, max-age=31536000, immutable
@@ -33,51 +33,75 @@
   Cache-Control: public, max-age=31536000, immutable
 /sw.js
   Cache-Control: no-cache
+/วิธีติดตั้งโปรแกรมบล็อกโฆษณาสำหรับ-firefox-ใช้ใน-android-ได้
+  Link: </webpack-runtime-e047fac89ecd022373a3.js>; rel=preload; as=script
+  Link: </styles-a1fe81c90011f45d0027.js>; rel=preload; as=script
+  Link: </app-12e4d42954b3c536dd61.js>; rel=preload; as=script
+  Link: </0-5932045ea379469b7557.js>; rel=preload; as=script
+  Link: </component---src-templates-post-js-b4ba710412725d1aee2b.js>; rel=preload; as=script
 /วิธีติดตั้งโปรแกรมบล็อกโฆษณาสำหรับ-chrome
-  Link: </webpack-runtime-37c572b59bdd1188b0c9.js>; rel=preload; as=script
+  Link: </webpack-runtime-e047fac89ecd022373a3.js>; rel=preload; as=script
   Link: </styles-a1fe81c90011f45d0027.js>; rel=preload; as=script
   Link: </app-12e4d42954b3c536dd61.js>; rel=preload; as=script
   Link: </0-5932045ea379469b7557.js>; rel=preload; as=script
-  Link: </component---src-templates-post-js-c0ac19530bbce69c9a95.js>; rel=preload; as=script
+  Link: </component---src-templates-post-js-b4ba710412725d1aee2b.js>; rel=preload; as=script
 /categories/adblock
-  Link: </webpack-runtime-37c572b59bdd1188b0c9.js>; rel=preload; as=script
+  Link: </webpack-runtime-e047fac89ecd022373a3.js>; rel=preload; as=script
   Link: </styles-a1fe81c90011f45d0027.js>; rel=preload; as=script
   Link: </app-12e4d42954b3c536dd61.js>; rel=preload; as=script
   Link: </0-5932045ea379469b7557.js>; rel=preload; as=script
-  Link: </component---src-templates-category-js-0059fc4b127f62a69517.js>; rel=preload; as=script
+  Link: </component---src-templates-category-js-3cb4901912e03b44eff4.js>; rel=preload; as=script
+/categories/firefox
+  Link: </webpack-runtime-e047fac89ecd022373a3.js>; rel=preload; as=script
+  Link: </styles-a1fe81c90011f45d0027.js>; rel=preload; as=script
+  Link: </app-12e4d42954b3c536dd61.js>; rel=preload; as=script
+  Link: </0-5932045ea379469b7557.js>; rel=preload; as=script
+  Link: </component---src-templates-category-js-3cb4901912e03b44eff4.js>; rel=preload; as=script
+/categories/u-block-origin-min-read
+  Link: </webpack-runtime-e047fac89ecd022373a3.js>; rel=preload; as=script
+  Link: </styles-a1fe81c90011f45d0027.js>; rel=preload; as=script
+  Link: </app-12e4d42954b3c536dd61.js>; rel=preload; as=script
+  Link: </0-5932045ea379469b7557.js>; rel=preload; as=script
+  Link: </component---src-templates-category-js-3cb4901912e03b44eff4.js>; rel=preload; as=script
+/categories/android
+  Link: </webpack-runtime-e047fac89ecd022373a3.js>; rel=preload; as=script
+  Link: </styles-a1fe81c90011f45d0027.js>; rel=preload; as=script
+  Link: </app-12e4d42954b3c536dd61.js>; rel=preload; as=script
+  Link: </0-5932045ea379469b7557.js>; rel=preload; as=script
+  Link: </component---src-templates-category-js-3cb4901912e03b44eff4.js>; rel=preload; as=script
 /categories/chrome
-  Link: </webpack-runtime-37c572b59bdd1188b0c9.js>; rel=preload; as=script
+  Link: </webpack-runtime-e047fac89ecd022373a3.js>; rel=preload; as=script
   Link: </styles-a1fe81c90011f45d0027.js>; rel=preload; as=script
   Link: </app-12e4d42954b3c536dd61.js>; rel=preload; as=script
   Link: </0-5932045ea379469b7557.js>; rel=preload; as=script
-  Link: </component---src-templates-category-js-0059fc4b127f62a69517.js>; rel=preload; as=script
+  Link: </component---src-templates-category-js-3cb4901912e03b44eff4.js>; rel=preload; as=script
 /categories/u-block-origin
-  Link: </webpack-runtime-37c572b59bdd1188b0c9.js>; rel=preload; as=script
+  Link: </webpack-runtime-e047fac89ecd022373a3.js>; rel=preload; as=script
   Link: </styles-a1fe81c90011f45d0027.js>; rel=preload; as=script
   Link: </app-12e4d42954b3c536dd61.js>; rel=preload; as=script
   Link: </0-5932045ea379469b7557.js>; rel=preload; as=script
-  Link: </component---src-templates-category-js-0059fc4b127f62a69517.js>; rel=preload; as=script
+  Link: </component---src-templates-category-js-3cb4901912e03b44eff4.js>; rel=preload; as=script
 /categories/
-  Link: </webpack-runtime-37c572b59bdd1188b0c9.js>; rel=preload; as=script
+  Link: </webpack-runtime-e047fac89ecd022373a3.js>; rel=preload; as=script
   Link: </styles-a1fe81c90011f45d0027.js>; rel=preload; as=script
   Link: </app-12e4d42954b3c536dd61.js>; rel=preload; as=script
   Link: </0-5932045ea379469b7557.js>; rel=preload; as=script
-  Link: </component---src-pages-categories-js-53f2891020c83b8d74d0.js>; rel=preload; as=script
+  Link: </component---src-pages-categories-js-b0abcdd47b797ea57ce9.js>; rel=preload; as=script
 /
-  Link: </webpack-runtime-37c572b59bdd1188b0c9.js>; rel=preload; as=script
+  Link: </webpack-runtime-e047fac89ecd022373a3.js>; rel=preload; as=script
   Link: </styles-a1fe81c90011f45d0027.js>; rel=preload; as=script
   Link: </app-12e4d42954b3c536dd61.js>; rel=preload; as=script
   Link: </0-5932045ea379469b7557.js>; rel=preload; as=script
-  Link: </component---src-pages-index-js-2bac73b94d8b853045f7.js>; rel=preload; as=script
+  Link: </component---src-pages-index-js-3c318e205b79405974ae.js>; rel=preload; as=script
 /report/
-  Link: </webpack-runtime-37c572b59bdd1188b0c9.js>; rel=preload; as=script
+  Link: </webpack-runtime-e047fac89ecd022373a3.js>; rel=preload; as=script
   Link: </styles-a1fe81c90011f45d0027.js>; rel=preload; as=script
   Link: </app-12e4d42954b3c536dd61.js>; rel=preload; as=script
   Link: </0-5932045ea379469b7557.js>; rel=preload; as=script
-  Link: </component---src-pages-report-js-696011434d00d2c32df2.js>; rel=preload; as=script
+  Link: </component---src-pages-report-js-53b06aedbaff0c2c2456.js>; rel=preload; as=script
 /success/
-  Link: </webpack-runtime-37c572b59bdd1188b0c9.js>; rel=preload; as=script
+  Link: </webpack-runtime-e047fac89ecd022373a3.js>; rel=preload; as=script
   Link: </styles-a1fe81c90011f45d0027.js>; rel=preload; as=script
   Link: </app-12e4d42954b3c536dd61.js>; rel=preload; as=script
   Link: </0-5932045ea379469b7557.js>; rel=preload; as=script
-  Link: </component---src-pages-success-js-eac2a2a097fd0245ff2b.js>; rel=preload; as=script
+  Link: </component---src-pages-success-js-4f17a6e799a1d0127bf5.js>; rel=preload; as=script
