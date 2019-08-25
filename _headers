@@ -17,7 +17,7 @@
   Cache-Control: public, max-age=31536000, immutable
 /component---src-pages-categories-js-727b5bd0b29b8d7f07be.js
   Cache-Control: public, max-age=31536000, immutable
-/component---src-pages-index-js-f55daa4f8beec6146be2.js
+/component---src-pages-index-js-815bad6cae81f0fa33c3.js
   Cache-Control: public, max-age=31536000, immutable
 /component---src-pages-report-js-169d5476da263e9c917f.js
   Cache-Control: public, max-age=31536000, immutable
@@ -25,7 +25,7 @@
   Cache-Control: public, max-age=31536000, immutable
 /undefined
   Cache-Control: public, max-age=31536000, immutable
-/webpack-runtime-93a30a670aee88c141ea.js
+/webpack-runtime-2192bfbc139e86aed948.js
   Cache-Control: public, max-age=31536000, immutable
 /app-c39cb464d99d373c527d.js
   Cache-Control: public, max-age=31536000, immutable
@@ -33,83 +33,96 @@
   Cache-Control: public, max-age=31536000, immutable
 /sw.js
   Cache-Control: no-cache
+/how-to-install-adblock-for-edge-insider
+  Link: </webpack-runtime-2192bfbc139e86aed948.js>; rel=preload; as=script
+  Link: </styles-fa01ef114c110df3ed15.js>; rel=preload; as=script
+  Link: </app-c39cb464d99d373c527d.js>; rel=preload; as=script
+  Link: </styles-fa01ef114c110df3ed15.js>; rel=preload; as=script
+  Link: </0-b19091a2bcb72dca3048.js>; rel=preload; as=script
+  Link: </component---src-templates-post-js-41e18839ad64b3483d89.js>; rel=preload; as=script
 /how-to-install-adblock-for-firefox-android
-  Link: </webpack-runtime-93a30a670aee88c141ea.js>; rel=preload; as=script
+  Link: </webpack-runtime-2192bfbc139e86aed948.js>; rel=preload; as=script
   Link: </styles-fa01ef114c110df3ed15.js>; rel=preload; as=script
   Link: </app-c39cb464d99d373c527d.js>; rel=preload; as=script
   Link: </styles-fa01ef114c110df3ed15.js>; rel=preload; as=script
   Link: </0-b19091a2bcb72dca3048.js>; rel=preload; as=script
   Link: </component---src-templates-post-js-41e18839ad64b3483d89.js>; rel=preload; as=script
 /how-to-install-adblock-for-firefox
-  Link: </webpack-runtime-93a30a670aee88c141ea.js>; rel=preload; as=script
+  Link: </webpack-runtime-2192bfbc139e86aed948.js>; rel=preload; as=script
   Link: </styles-fa01ef114c110df3ed15.js>; rel=preload; as=script
   Link: </app-c39cb464d99d373c527d.js>; rel=preload; as=script
   Link: </styles-fa01ef114c110df3ed15.js>; rel=preload; as=script
   Link: </0-b19091a2bcb72dca3048.js>; rel=preload; as=script
   Link: </component---src-templates-post-js-41e18839ad64b3483d89.js>; rel=preload; as=script
 /how-to-install-adblock-for-chrome
-  Link: </webpack-runtime-93a30a670aee88c141ea.js>; rel=preload; as=script
+  Link: </webpack-runtime-2192bfbc139e86aed948.js>; rel=preload; as=script
   Link: </styles-fa01ef114c110df3ed15.js>; rel=preload; as=script
   Link: </app-c39cb464d99d373c527d.js>; rel=preload; as=script
   Link: </styles-fa01ef114c110df3ed15.js>; rel=preload; as=script
   Link: </0-b19091a2bcb72dca3048.js>; rel=preload; as=script
   Link: </component---src-templates-post-js-41e18839ad64b3483d89.js>; rel=preload; as=script
 /categories/adblock
-  Link: </webpack-runtime-93a30a670aee88c141ea.js>; rel=preload; as=script
+  Link: </webpack-runtime-2192bfbc139e86aed948.js>; rel=preload; as=script
   Link: </styles-fa01ef114c110df3ed15.js>; rel=preload; as=script
   Link: </app-c39cb464d99d373c527d.js>; rel=preload; as=script
   Link: </0-b19091a2bcb72dca3048.js>; rel=preload; as=script
   Link: </component---src-templates-category-js-6f42a602f8ce7e307caa.js>; rel=preload; as=script
-/categories/firefox
-  Link: </webpack-runtime-93a30a670aee88c141ea.js>; rel=preload; as=script
+/categories/edge
+  Link: </webpack-runtime-2192bfbc139e86aed948.js>; rel=preload; as=script
   Link: </styles-fa01ef114c110df3ed15.js>; rel=preload; as=script
   Link: </app-c39cb464d99d373c527d.js>; rel=preload; as=script
   Link: </0-b19091a2bcb72dca3048.js>; rel=preload; as=script
   Link: </component---src-templates-category-js-6f42a602f8ce7e307caa.js>; rel=preload; as=script
 /categories/u-bo
-  Link: </webpack-runtime-93a30a670aee88c141ea.js>; rel=preload; as=script
-  Link: </styles-fa01ef114c110df3ed15.js>; rel=preload; as=script
-  Link: </app-c39cb464d99d373c527d.js>; rel=preload; as=script
-  Link: </0-b19091a2bcb72dca3048.js>; rel=preload; as=script
-  Link: </component---src-templates-category-js-6f42a602f8ce7e307caa.js>; rel=preload; as=script
-/categories/android
-  Link: </webpack-runtime-93a30a670aee88c141ea.js>; rel=preload; as=script
+  Link: </webpack-runtime-2192bfbc139e86aed948.js>; rel=preload; as=script
   Link: </styles-fa01ef114c110df3ed15.js>; rel=preload; as=script
   Link: </app-c39cb464d99d373c527d.js>; rel=preload; as=script
   Link: </0-b19091a2bcb72dca3048.js>; rel=preload; as=script
   Link: </component---src-templates-category-js-6f42a602f8ce7e307caa.js>; rel=preload; as=script
 /categories/how-to
-  Link: </webpack-runtime-93a30a670aee88c141ea.js>; rel=preload; as=script
+  Link: </webpack-runtime-2192bfbc139e86aed948.js>; rel=preload; as=script
+  Link: </styles-fa01ef114c110df3ed15.js>; rel=preload; as=script
+  Link: </app-c39cb464d99d373c527d.js>; rel=preload; as=script
+  Link: </0-b19091a2bcb72dca3048.js>; rel=preload; as=script
+  Link: </component---src-templates-category-js-6f42a602f8ce7e307caa.js>; rel=preload; as=script
+/categories/firefox
+  Link: </webpack-runtime-2192bfbc139e86aed948.js>; rel=preload; as=script
+  Link: </styles-fa01ef114c110df3ed15.js>; rel=preload; as=script
+  Link: </app-c39cb464d99d373c527d.js>; rel=preload; as=script
+  Link: </0-b19091a2bcb72dca3048.js>; rel=preload; as=script
+  Link: </component---src-templates-category-js-6f42a602f8ce7e307caa.js>; rel=preload; as=script
+/categories/android
+  Link: </webpack-runtime-2192bfbc139e86aed948.js>; rel=preload; as=script
   Link: </styles-fa01ef114c110df3ed15.js>; rel=preload; as=script
   Link: </app-c39cb464d99d373c527d.js>; rel=preload; as=script
   Link: </0-b19091a2bcb72dca3048.js>; rel=preload; as=script
   Link: </component---src-templates-category-js-6f42a602f8ce7e307caa.js>; rel=preload; as=script
 /categories/chrome
-  Link: </webpack-runtime-93a30a670aee88c141ea.js>; rel=preload; as=script
+  Link: </webpack-runtime-2192bfbc139e86aed948.js>; rel=preload; as=script
   Link: </styles-fa01ef114c110df3ed15.js>; rel=preload; as=script
   Link: </app-c39cb464d99d373c527d.js>; rel=preload; as=script
   Link: </0-b19091a2bcb72dca3048.js>; rel=preload; as=script
   Link: </component---src-templates-category-js-6f42a602f8ce7e307caa.js>; rel=preload; as=script
 /categories/
-  Link: </webpack-runtime-93a30a670aee88c141ea.js>; rel=preload; as=script
+  Link: </webpack-runtime-2192bfbc139e86aed948.js>; rel=preload; as=script
   Link: </styles-fa01ef114c110df3ed15.js>; rel=preload; as=script
   Link: </app-c39cb464d99d373c527d.js>; rel=preload; as=script
   Link: </0-b19091a2bcb72dca3048.js>; rel=preload; as=script
   Link: </component---src-pages-categories-js-727b5bd0b29b8d7f07be.js>; rel=preload; as=script
 /
-  Link: </webpack-runtime-93a30a670aee88c141ea.js>; rel=preload; as=script
+  Link: </webpack-runtime-2192bfbc139e86aed948.js>; rel=preload; as=script
   Link: </styles-fa01ef114c110df3ed15.js>; rel=preload; as=script
   Link: </app-c39cb464d99d373c527d.js>; rel=preload; as=script
   Link: </0-b19091a2bcb72dca3048.js>; rel=preload; as=script
-  Link: </component---src-pages-index-js-f55daa4f8beec6146be2.js>; rel=preload; as=script
+  Link: </component---src-pages-index-js-815bad6cae81f0fa33c3.js>; rel=preload; as=script
 /report/
-  Link: </webpack-runtime-93a30a670aee88c141ea.js>; rel=preload; as=script
+  Link: </webpack-runtime-2192bfbc139e86aed948.js>; rel=preload; as=script
   Link: </styles-fa01ef114c110df3ed15.js>; rel=preload; as=script
   Link: </app-c39cb464d99d373c527d.js>; rel=preload; as=script
   Link: </0-b19091a2bcb72dca3048.js>; rel=preload; as=script
   Link: </component---src-pages-report-js-169d5476da263e9c917f.js>; rel=preload; as=script
 /success/
-  Link: </webpack-runtime-93a30a670aee88c141ea.js>; rel=preload; as=script
+  Link: </webpack-runtime-2192bfbc139e86aed948.js>; rel=preload; as=script
   Link: </styles-fa01ef114c110df3ed15.js>; rel=preload; as=script
   Link: </app-c39cb464d99d373c527d.js>; rel=preload; as=script
   Link: </0-b19091a2bcb72dca3048.js>; rel=preload; as=script
